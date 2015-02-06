@@ -1,0 +1,7 @@
+# development environment
+.ipynb_checkpoints/
+.ropeproject/
+.vagrant/
+
+# original backup files
+*.dump
